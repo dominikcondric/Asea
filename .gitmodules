@@ -1,0 +1,3 @@
+[submodule "Dependencies/Coa"]
+	path = Dependencies/Coa
+	url = https://github.com/dominikcondric/Coa.git
